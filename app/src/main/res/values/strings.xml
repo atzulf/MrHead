@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Mrhead</string>
+    <string name="checkBoxjanggut">Janggut</string>
+    <string name="checkBoxkumis">Kumis</string>
+    <string name="checkBoxalis">Alis</string>
+    <string name="checkBoxrambut">Rambut</string>
+</resources>
